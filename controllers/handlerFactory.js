@@ -1,6 +1,6 @@
 const catchAsync = require('./../utils/catchAsync');
 const AppError = require('./../utils/appError');
-const APIFeatures = require('./../utils/apifeatures');
+const APIFeatures = require('./../utils/apiFeatures');
 
 // the inner function will get access to variables of outer function, even if the variables are returned
 exports.deleteOne = (Model) =>
