@@ -13,16 +13,17 @@
     }
   ],
   "env": {
-    "PORT": "3000",
     "NODE_ENV": "production",
-    "DATABASE": "@database",
-    "DATABASE_PASSWORD": "@database_password",
-    "JWT_SECRET": "@jwt_secret",
-    "JWT_EXPIRES_IN": "@jwt_expires_in",
-    "JWT_COOKIE_EXPIRES_IN": "@jwt_cookie_expires_in",
-    "EMAIL_USERNAME": "@email_username",
-    "EMAIL_PASSWORD": "@email_password",
-    "EMAIL_HOSTNAME": "@email_hostname",
-    "EMAIL_PORT": "@email_port"
+    "PORT": "8000",
+    "USER": "tsajal867",
+    "DATABASE": "mongodb+srv://tsajal867:<PASSWORD>@cluster0.3bfrxxg.mongodb.net/?retryWrites=true&w=majority",
+    "DATABASE_PASSWORD": "Sajal123",
+    "JWT_SECRET": "jdsjdnsnsjslkdlkanlknsa230-rl;sdmflasf[pwe[]]",
+    "JWT_EXPIRES_IN": "90d",
+    "JWT_COOKIE_EXPIRES_IN": "90",
+    "EMAIL_USERNAME": "0ea42839b063c7",
+    "EMAIL_PASSWORD": "5a7baa1605cb88",
+    "EMAIL_HOSTNAME": "sandbox.smtp.mailtrap.io",
+    "EMAIL_PORT": "2525"
   }
 }
