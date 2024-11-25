@@ -1,6 +1,6 @@
 # MERN Stack Application - API Server
 
-This project is a **backend API** for a tour company, built using **Node.js**, **Express**, and **MongoDB**. It provides robust CRUD operations for tours, users, and reviews, along with advanced features like `JWT-based authentication`, `role-based authorization`, and `comprehensive error handling`. The application employs modern web development practices, including modular architecture, reusable factory functions, and middleware, ensuring maintainability, scalability, and security. Key security measures such as `data sanitization`, `rate limiting`, and setting `HTTP headers` are implemented to protect against common web vulnerabilities.
+This project is a **backend API** for a tour company, built using **Node.js**, **Express**, and **MongoDB**. It provides robust CRUD operations for tours, users, and reviews, along with advanced features like `JWT-based authentication`, `role-based authorization`, and `comprehensive error handling`. The application employs modern web development practices, including **modular architecture**, **reusable factory functions**, and **middleware**, ensuring maintainability, **scalability**, and **security**. Key security measures such as `data sanitization`, `rate limiting`, and setting `HTTP headers` are implemented to protect against common web vulnerabilities.
 
  - Publish API Document: (https://documenter.getpostman.com/view/30543767/2sAYBUECo7)
  - Hosted Live API: https://natour-api.vercel.app/
